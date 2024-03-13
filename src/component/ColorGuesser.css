@@ -1,0 +1,13 @@
+.primary {
+    height: 350px;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
